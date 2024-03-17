@@ -16,4 +16,5 @@ Output:
 - Letters
 
 `npm install`
+
 `npx ts-node challenge.ts` compile and run
