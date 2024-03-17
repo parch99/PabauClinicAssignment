@@ -95,6 +95,6 @@ function findPath(arr: string[][]): { path: string, letters: string } {
     return {path, letters}
 }
 
-let { path, letters } = findPath(input1);
+let { path, letters } = findPath(input2);
 console.log(path);
 console.log(letters);
